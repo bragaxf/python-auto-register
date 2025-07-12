@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ```
 selenium-auto-register/
-├── botform.py              # The main automation script
+├── botform.py           # The main automation script
 ├── requirements.txt     # Python dependencies
 └── README.md            # This file
 ```
