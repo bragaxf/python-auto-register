@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ```
 selenium-auto-register/
-├── main.py              # The main automation script
+├── botform.py              # The main automation script
 ├── requirements.txt     # Python dependencies
 └── README.md            # This file
 ```
@@ -55,7 +55,7 @@ cd python-auto-register
 pip install -r requirements.txt
 ```
 
-3. Open `main.py` and change the `url` variable to the target registration page:
+3. Open `botform.py` and change the `url` variable to the target registration page:
 
 ```python
 url = 'https://example.com/?modal=registration'
