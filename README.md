@@ -66,7 +66,7 @@ url = 'https://example.com/?modal=registration'
 5. Run the script:
 
 ```bash
-python main.py
+python botform.py
 ```
 
 6. When prompted:
